@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/brightcove/videojs-playlist.svg?branch=master)](https://travis-ci.org/brightcove/videojs-playlist)
-///
 # Playlist Plugin for video.js
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
